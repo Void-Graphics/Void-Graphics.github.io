@@ -45,6 +45,7 @@
 body {
   color: var(--white);
   background: var(--black0);
+  font-family: car(--mainfont);
 }
 
 
@@ -57,7 +58,6 @@ header h1 {
   color: var(--white2);
   text-shadow: none;
   text-align: center;
-  font-family: var(--mainfont);
   font-weight: Light;
   margin-left: 0;
 }
@@ -74,7 +74,6 @@ header h1:after {
   border: 1px solid var(--pink2);
   background: var(--pink2);
   color: var(--black);
-  font-family: var(--mainfont);
   text-shadow: none;
   box-shadow: none;
 }
