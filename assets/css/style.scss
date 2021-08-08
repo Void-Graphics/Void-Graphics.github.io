@@ -127,11 +127,13 @@ h1, h2, h3, h4, h5 {
     color: var(--black0);
   }
 }**/
+.container {
+    display: table;
+}
 
 #titlestuff {
-    position: relative;
-    float: left;
+    display: table-cell;
 }
 #pages {
-    float: left;
+    display: table-cell;
 }
