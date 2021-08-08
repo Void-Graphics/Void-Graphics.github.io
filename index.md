@@ -1,5 +1,5 @@
 ---
-title: VoidCraft Graphics
+title: Void_ Graphics
 ---
 
 # WIP
