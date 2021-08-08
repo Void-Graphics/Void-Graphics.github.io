@@ -40,6 +40,18 @@
 
 
   --mainfont: "Jetbrains Mono", Hack, Menlo, monospace;
+
+  --dark: #282828;
+  --darkest: #1d2021;
+  --light: #ebdbb2;
+
+  --mainweight: 100;
+
+  --red: #cc241d;
+  --orange: #d65d0e;
+  --yellow: #d79921;
+  --green: #689d6a;
+  --purple: #b16286;
 }
 
 body {
@@ -53,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-  background: var(--black1);
+  background: var(--darkest);
   border-bottom: 1px solid var(--pink);
 }
 
