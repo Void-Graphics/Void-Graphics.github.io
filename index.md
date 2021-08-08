@@ -4,7 +4,7 @@ title: Void_ Graphics
 
 # WIP
 
-# Les links:
+# links:
 [Patreon](https://www.patreon.com/VoidGraphics)
 
 [PlanetMinecraft](https://www.planetminecraft.com/texture-pack/void-texturepack-labpbr-procedural-texturepack-slinkous/)
