@@ -87,17 +87,17 @@ header h1:after {
   border-radius: 0;
   border: 1px solid var(--pink2);
   background: var(--pink2);
-  color: var(--black);
+  color: var(--darkest);
   text-shadow: none;
   box-shadow: none;
 }
 
 .btn:visited {
-  color: var(--black);
+  color: var(--darkest);
 }
 .btn:hover {
   border: 1px solid var(--pink2);
-  background: var(--black0);
+  background: var(--dark);
   color: var(--pink2);
 }
 
