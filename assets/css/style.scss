@@ -44,6 +44,8 @@
   --dark: #282828;
   --darkest: #1d2021;
   --darkish: #3c3736;
+  --darkmid: #665c54;
+  --darknt: #7c6f64;
   --light: #ebdbb2;
 
   --mainweight: 100;
@@ -86,7 +88,7 @@ header h1:after {
 }
 
 header h2 {
-    color: var(--darkish);
+    color: var(--darknt);
 }
 
 .btn {
