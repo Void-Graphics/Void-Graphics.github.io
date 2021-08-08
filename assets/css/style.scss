@@ -38,6 +38,8 @@
   --white: #E5E9F0;
   --white2: #ECEFF4;
 
+
+  --mainfont: "Jetbrains Mono", Hack, Menlo, monospace;
 }
 
 body {
@@ -55,7 +57,7 @@ header h1 {
   color: var(--white2);
   text-shadow: none;
   text-align: center;
-  font-family: "Source Code Pro", Consolas, Terminal, "Lucida Console", monospace;
+  font-family: var(--mainfont)
   font-weight: Light;
   margin-left: 0;
 }
@@ -72,7 +74,7 @@ header h1:after {
   border: 1px solid var(--pink2);
   background: var(--pink2);
   color: var(--black);
-  font-family: "Source Code Pro", Consolas, Terminal, "Lucida Console", monospace;
+  font-family: var(--mainfont);
   text-shadow: none;
   box-shadow: none;
 }
