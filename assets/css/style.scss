@@ -199,7 +199,7 @@ footer {
   color: var(--white);
   text-align: center;
 }
-
+/**
 #footertable {
   display: table;
   width: 90%;
@@ -212,12 +212,20 @@ footer {
 
 #footertable a {
   display: block;
+  width: 33%;
 }
 
 #centerfoot {
   display: table-cell;
+  width: 33%;
 }
 
 #rightfoot {
   display: table-cell;
+  33
+}**/
+#footertable {
+  column-count: 3;
+  -moz-column-count: 3;
+  -webkit-column-count: 3;
 }
