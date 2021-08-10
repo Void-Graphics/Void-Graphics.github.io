@@ -196,7 +196,9 @@ h1, h2, h3, h4, h5 {
   width: 100%;
   color: var(--white);
 }
-
+#contact {
+  display: table-cell;
+}
 #centerfoot {
   display: table-cell;
 }
