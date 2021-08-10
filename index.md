@@ -3,6 +3,7 @@ title: Void_ Graphics
 ---
 
 # WIP
+Void_ is a realistic LabPBR texturepack, with etc. etc.
 
 # links:
 [Patreon](https://www.patreon.com/VoidGraphics)
