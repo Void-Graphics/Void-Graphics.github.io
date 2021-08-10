@@ -187,3 +187,19 @@ h1, h2, h3, h4, h5 {
     vertical-align: center;
     text-align: right;
 }
+
+#footertable {
+  display: table;
+  background-color: var(--darkest);
+  padding: 100px;
+  width: 100%;
+  color: var(--white);
+}
+
+#centerfoot {
+  display: table-cell;
+}
+
+#rightfoot {
+  display: table-cell;
+}
