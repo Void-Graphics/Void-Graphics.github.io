@@ -188,13 +188,17 @@ h1, h2, h3, h4, h5 {
     text-align: right;
 }
 
-#footertable {
-  display: table;
+footer {
+  width: 100px
   background-color: var(--darkest);
   padding: 100px;
   margin: 0;
-  width: 100%;
   color: var(--white);
+}
+
+#footertable {
+  display: table;
+
 }
 
 #contact {
