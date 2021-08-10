@@ -23,6 +23,7 @@
   --bright-white
 }
 **/
+/**
 :root {
   --black: #282E3A;
   --black0: #2E3440;
@@ -55,7 +56,40 @@
   --yellow: #d79921;
   --green: #689d6a;
   --purple: #b16286;
-}
+}**/
+
+:root {
+  --black: #282E3A;
+  --black0: #2E3440;
+  --black1: #3B4252;
+  --black2: #4C566A;
+  
+  --blue: #81A1C1;
+
+  --pink: #B48EAD;
+  --pink2: #C394B4;
+
+  --white0: #D8DEE9;
+  --white: #E5E9F0;
+  --white2: #ECEFF4;
+
+
+  --mainfont: "Jetbrains Mono", Hack, Menlo, monospace;
+
+  --dark: #282828;
+  --darkest: #212121;
+  --darkish: #3c3c3c;
+  --darkmid: #666666;
+  --darknt: #7c7c7c;
+  --light: #ebdbb2;
+
+  --mainweight: 100;
+
+  --red: #cc241d;
+  --orange: #d65d0e;
+  --yellow: #d79921;
+  --green: #689d6a;
+  --purple: #b16286;
 
 body {
   color: var(--white);
