@@ -2,7 +2,7 @@
 title: Void_ Graphics
 ---
 
-###Void_ is a series of incredibly realistic textures for Minecraft: Java Edition. They are fully LabPBR compliant, and are available in resolutions from 64x all the way up to 1024x, and eventually 2048x.
+### Void_ is a series of incredibly realistic textures for Minecraft: Java Edition. They are fully LabPBR compliant, and are available in resolutions from 64x all the way up to 1024x, and eventually 2048x.
 
 
 
