@@ -255,12 +255,14 @@ footer {
 
 .splitimage {
   margin: 0;
+  flex: 50%;
 }
 
 .splitcaption {
   margin: 0;
   vertical-align: middle;
   margin: 40px;
+  flex: 50%;
 }
 
 .splitimage img {
