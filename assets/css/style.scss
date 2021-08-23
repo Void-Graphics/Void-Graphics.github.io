@@ -224,3 +224,17 @@ footer {
   display: table-cell;
   width: 33%;
 }
+
+.split {
+  display: table;
+  width: 100%;
+  margin: none;
+}
+
+.splittext {
+  display: table-cell;
+}
+
+.splitimage {
+  display: table-cell;
+}
