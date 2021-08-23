@@ -236,10 +236,15 @@ footer {
   display: table-cell;
   width: 50%;
   margin: 0;
+  padding: 20px;
 }
 
 .splitimage {
   display: table-cell;
   width: 50%;
   margin: 0;
+}
+
+.splittext p {
+  text-align: left;
 }
